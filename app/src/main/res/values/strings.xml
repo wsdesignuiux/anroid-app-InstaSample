@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstaSample</string>
+
+    <string name="person"><b>Person Name</b></string>
+</resources>
